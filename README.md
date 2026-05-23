@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaluaa" alt="jaluaa" /></a> </p>
 
-- 🌱 I’m currently learning **C programming**
+
 
 - 📫 How to reach me **jalwajabbar@gmail.com**
 
